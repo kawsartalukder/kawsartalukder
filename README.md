@@ -1,7 +1,6 @@
 ### Hi there 👋, MD KAWSAR TALUKDER
 #### WordPress and Shopify expert 
-![WordPress and Shopify expert ](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/p960x960/76931541_2427694217485454_588949503587909632_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=D-gEwIpgiN4AX_0dHmf&tn=Jk3ZnANGXE440Zsb&_nc_ht=scontent.fdac14-1.fna&oh=74897a3800b7b6fb41b4bb12fd22e7cd&oe=61A2F18E)
-
+![WordPress and Shopify expert ]
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  HTML / CSS/PHP/WORDPRESS/SHOPIFY
