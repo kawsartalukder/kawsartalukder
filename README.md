@@ -1,4 +1,4 @@
-### Hi there 👋 I am mMD KAWSAR TALUKDER
+### Hi there 👋 I am MD KAWSAR TALUKDER
 
 <!--
 **kawsartalukder/kawsartalukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
