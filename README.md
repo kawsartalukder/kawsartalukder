@@ -43,7 +43,7 @@ I am looking forward to hearing from you!
 Best Regards,
 Kawsar
 
-Skills:  HTML / CSS/PHP/WORDPRESS/SHOPIFY
+Skills:  HTML5 / CSS3 / PHP/ WORDPRESS/ jquery / javascript / Bootstrap / SHOPIFY / Shopify liquid code /
 
 - 🔭 I’m currently working on Shopnex IT 
 - 👯 I’m looking to collaborate on Github 
